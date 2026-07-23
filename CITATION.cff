@@ -4,7 +4,7 @@ message: "If you use this research workflow, please cite the project and attribu
 type: software
 authors:
   - family-names: Kerwin
-repository-code: "https://github.com/Kerwin7081/test"
+repository-code: "https://github.com/Kerwin7081/kerwin-signal-chain-research"
 abstract: "An evidence-first workflow that expands a small disclosure into entity verification, technical decomposition, industry-chain mapping, investment implications, falsification criteria, publication, and continuous monitoring."
 keywords:
   - investment research
